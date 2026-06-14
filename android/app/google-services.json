@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093239873458",
+    "project_id": "resumecraftai-46ae3",
+    "storage_bucket": "resumecraftai-46ae3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093239873458:android:100a3dd1484a7bb07d4eab",
+        "android_client_info": {
+          "package_name": "com.shweta.resumecraft_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093239873458-kmcp4h869hpsa956ermgse6k513fmng4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9d5ZkMLvp7X9_d5XVtZrviIO3_SzGPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093239873458-kmcp4h869hpsa956ermgse6k513fmng4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

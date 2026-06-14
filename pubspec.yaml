@@ -1,0 +1,35 @@
+name: resumecraft_ai
+description: "AI Resume Builder App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.0
+  cloud_firestore: ^6.0.0
+  pdf: ^3.10.8
+  path_provider: ^2.1.2
+  permission_handler: ^11.3.1
+  open_file: ^3.3.2
+  http: ^1.2.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Commented out because the folders are currently empty.
+  # Add files to these folders before uncommenting.
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/
